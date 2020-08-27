@@ -16,8 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
     - GitHub username: dongming-li.
     
 2. What did the Owner do in the most recent commit? What is the commit ID?
-    - The Owner changed job.png to job.jpg 
-    - The commit ID is 02e692671b8263b2396685880e44a64a8dd28a12
+    - The Owner changed q6 to 'version' instead of getVersion
+    - The commit ID is bdc1015f8e5c569f720e24894c8a94a9b8fb94cf
 
 3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
     - I cannot knit the owner's hw1.Rmd.
