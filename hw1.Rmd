@@ -57,8 +57,8 @@ As a pre-requisite of this homework, first install R, and then the RStudio (the 
 6. To check that your R and Rstudio installation is correct, find the version of R by entering `version` into the R console. Include this command into a R code trunk in your solution `Rmd` file to have it automatically printed in the knitted html file. 
 
     Answer:
-    ```{r echo=TRUE}
-    getRversion()
+    ```{r}
+    version
     ```
   
 7. Install git. 
