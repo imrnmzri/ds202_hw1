@@ -41,7 +41,7 @@ As a pre-requisite of this homework, first install R, and then the RStudio (the 
     
     [Link to Amazon's Data Scientist Job Opening](https://www.amazon.jobs/en/jobs/991758/data-scientist)
     
-    ![Caption: Amazon's Data Scientist Job](job.png)
+    ![Caption: Amazon's Data Scientist Job](job.jpg)
     
   
 5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
