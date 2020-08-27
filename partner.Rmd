@@ -1,0 +1,28 @@
+---
+title: "partner.Rmd"
+author: "Dongming Li"
+date: "8/25/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 1 Part II Step 2
+
+1. Your (the Partner’s) full name and GitHub username.
+    - Partner's name: Dongming Li.
+    - GitHub username: dongming-li.
+    
+2. What did the Owner do in the most recent commit? What is the commit ID?
+    - The Owner delete job.PNG in his file. 
+    - The commit ID is 39f07bf99c10b7d0bcb1fb67e25dc6263ed11bd7
+
+3. Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+    - I cannot knit the owner's hw1.Rmd.
+    - Reason: File job.png not found in resource path
+    - Error: pandoc document conversion failed with error 99
+
+4. Also include an error/difficulty you encountered, or a tip for making Git/GitHub easier.
+    - Tip: To copy and paste commands in bash, use "shift + ctrl + c" and "shift + ctrl + v".
